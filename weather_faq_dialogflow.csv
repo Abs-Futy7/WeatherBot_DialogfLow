@@ -1,0 +1,16 @@
+Intent,Training Phrase,Response
+weather.today,What is the weather like today?,Today's weather depends on your location. Could you please share your city?
+weather.rain,Will it rain today?,Let me check that for you. Please provide your location so I can fetch the rain forecast.
+weather.temperature,What's the temperature right now?,"To get the current temperature, I need your city or GPS location."
+weather.sunny_tomorrow,Is it going to be sunny tomorrow?,I'll check tomorrow’s forecast for you. Which city should I look up?
+weather.weekly_forecast,What's the weather forecast for this week?,Weekly weather forecasts are available. Could you share your location?
+weather.high_temp,How hot will it get today?,Let me find today’s high temperature. Where are you located?
+weather.low_temp,How cold will it be tonight?,I’ll check the nighttime low for you. Please tell me your location.
+weather.humidity,What's the humidity level?,I can fetch humidity details for your area. Just let me know where you are.
+weather.storm,Is there a storm warning?,Let me check for any storm alerts in your region. Could you share your location?
+weather.snow,Will it snow today?,I’ll check for snow in your area. Please tell me your city or region.
+weather.uv_index,What's the UV index today?,UV index info depends on location and time. Could you provide your city?
+weather.air_quality,How’s the air quality right now?,I can provide AQI (Air Quality Index) if you share your location.
+weather.wind_speed,What’s the wind speed today?,I’ll check wind conditions near you. Where are you located?
+weather.advisory,Is there a weather advisory in my area?,I’ll look for active advisories near you. Please provide your location.
+weather.sunrise_sunset,What’s the sunrise and sunset time?,I can tell you sunrise and sunset times if you share your city or GPS info.

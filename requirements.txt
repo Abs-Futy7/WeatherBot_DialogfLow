@@ -1,0 +1,17 @@
+certifi
+chardet
+Click
+Flask
+Flask-Cors
+idna
+itsdangerous
+Jinja2
+MarkupSafe
+pyowm
+requests
+six
+urllib3
+Werkzeug
+wincertstore
+gunicorn
+WeatherData

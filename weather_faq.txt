@@ -1,0 +1,59 @@
+Intent: weather.today
+Q: What is the weather like today?
+A: Today's weather depends on your location. Could you please share your city?
+
+Intent: weather.rain
+Q: Will it rain today?
+A: Let me check that for you. Please provide your location so I can fetch the rain forecast.
+
+Intent: weather.temperature
+Q: What's the temperature right now?
+A: To get the current temperature, I need your city or GPS location.
+
+Intent: weather.sunny_tomorrow
+Q: Is it going to be sunny tomorrow?
+A: I'll check tomorrow’s forecast for you. Which city should I look up?
+
+Intent: weather.weekly_forecast
+Q: What's the weather forecast for this week?
+A: Weekly weather forecasts are available. Could you share your location?
+
+Intent: weather.high_temp
+Q: How hot will it get today?
+A: Let me find today’s high temperature. Where are you located?
+
+Intent: weather.low_temp
+Q: How cold will it be tonight?
+A: I’ll check the nighttime low for you. Please tell me your location.
+
+Intent: weather.humidity
+Q: What's the humidity level?
+A: I can fetch humidity details for your area. Just let me know where you are.
+
+Intent: weather.storm
+Q: Is there a storm warning?
+A: Let me check for any storm alerts in your region. Could you share your location?
+
+Intent: weather.snow
+Q: Will it snow today?
+A: I’ll check for snow in your area. Please tell me your city or region.
+
+Intent: weather.uv_index
+Q: What's the UV index today?
+A: UV index info depends on location and time. Could you provide your city?
+
+Intent: weather.air_quality
+Q: How’s the air quality right now?
+A: I can provide AQI (Air Quality Index) if you share your location.
+
+Intent: weather.wind_speed
+Q: What’s the wind speed today?
+A: I’ll check wind conditions near you. Where are you located?
+
+Intent: weather.advisory
+Q: Is there a weather advisory in my area?
+A: I’ll look for active advisories near you. Please provide your location.
+
+Intent: weather.sunrise_sunset
+Q: What’s the sunrise and sunset time?
+A: I can tell you sunrise and sunset times if you share your city or GPS info.
